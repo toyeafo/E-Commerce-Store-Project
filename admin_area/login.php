@@ -30,6 +30,8 @@
                Login
 
            </button><!-- btn btn-lg btn-primary btn-block finish -->
+           
+           <a href="../checkout.php"><button type="button" class="btn btn-lg btn-primary btn-block">Customer Login</button></a>
 
        </form><!-- form-login finish -->
    </div><!-- container finish -->
